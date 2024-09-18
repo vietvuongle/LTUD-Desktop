@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Day02\\LTUD-Desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDDB18-F766-467D-8E18-0BD9A49FDCCE}|LopKeThua\\LopKeThua.csproj|d:\\c#\\day02\\ltud-desktop\\lopkethua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDDB18-F766-467D-8E18-0BD9A49FDCCE}|LopKeThua\\LopKeThua.csproj|solutionrelative:lopkethua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDDB18-F766-467D-8E18-0BD9A49FDCCE}|LopKeThua\\LopKeThua.csproj|d:\\c#\\day02\\ltud-desktop\\lopkethua\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDDB18-F766-467D-8E18-0BD9A49FDCCE}|LopKeThua\\LopKeThua.csproj|solutionrelative:lopkethua\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Day02\\LTUD-Desktop\\LopKeThua\\Program.cs",
+              "RelativeDocumentMoniker": "LopKeThua\\Program.cs",
+              "ToolTip": "D:\\C#\\Day02\\LTUD-Desktop\\LopKeThua\\Program.cs",
+              "RelativeToolTip": "LopKeThua\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:09:13.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hinh.cs",
+              "DocumentMoniker": "D:\\C#\\Day02\\LTUD-Desktop\\LopKeThua\\Hinh.cs",
+              "RelativeDocumentMoniker": "LopKeThua\\Hinh.cs",
+              "ToolTip": "D:\\C#\\Day02\\LTUD-Desktop\\LopKeThua\\Hinh.cs",
+              "RelativeToolTip": "LopKeThua\\Hinh.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA2wFkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:03:26.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

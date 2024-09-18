@@ -17,9 +17,14 @@ namespace LopKeThua
             return "";
         }
 
-        public double GetDienTich()
+        virtual public double GetDienTich()
         {
             return -1;
+        }
+
+        virtual public String LoaiHinh()
+        {
+            return "";
         }
     }
 
@@ -40,7 +45,7 @@ namespace LopKeThua
             return (ChieuDai + ChieuRong) * 2.0f;
         }
 
-        public double GetDienTich()
+        public override double GetDienTich()
         {
             return ChieuDai * ChieuRong;
         }
@@ -48,6 +53,11 @@ namespace LopKeThua
         public override string GetThongTin()
         {
             return $"Hinh chu nhat {ChieuDai} x {ChieuRong}";
+        }
+
+        public override String LoaiHinh()
+        {
+            return "Hinh chu nhat";
         }
     }
 
@@ -60,7 +70,7 @@ namespace LopKeThua
             return 3.14158235897f * 2 * BanKinh;
         }
 
-        public double GetDienTich()
+        public override double GetDienTich()
         {
             return 3.14158235897f * BanKinh * BanKinh;
         }
@@ -73,6 +83,11 @@ namespace LopKeThua
         public HinhTron(double banKinh)
         {
             BanKinh = banKinh;
+        }
+
+        public override String LoaiHinh()
+        {
+            return "Hinh tron";
         }
     }
 }
