@@ -1,0 +1,14 @@
+D:\21t1020103\Ngay02\BaiTapClass\bin\Debug\net8.0\BaiTapClass.exe
+D:\21t1020103\Ngay02\BaiTapClass\bin\Debug\net8.0\BaiTapClass.deps.json
+D:\21t1020103\Ngay02\BaiTapClass\bin\Debug\net8.0\BaiTapClass.runtimeconfig.json
+D:\21t1020103\Ngay02\BaiTapClass\bin\Debug\net8.0\BaiTapClass.dll
+D:\21t1020103\Ngay02\BaiTapClass\bin\Debug\net8.0\BaiTapClass.pdb
+D:\21t1020103\Ngay02\BaiTapClass\obj\Debug\net8.0\BaiTapClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\21t1020103\Ngay02\BaiTapClass\obj\Debug\net8.0\BaiTapClass.AssemblyInfoInputs.cache
+D:\21t1020103\Ngay02\BaiTapClass\obj\Debug\net8.0\BaiTapClass.AssemblyInfo.cs
+D:\21t1020103\Ngay02\BaiTapClass\obj\Debug\net8.0\BaiTapClass.csproj.CoreCompileInputs.cache
+D:\21t1020103\Ngay02\BaiTapClass\obj\Debug\net8.0\BaiTapClass.dll
+D:\21t1020103\Ngay02\BaiTapClass\obj\Debug\net8.0\refint\BaiTapClass.dll
+D:\21t1020103\Ngay02\BaiTapClass\obj\Debug\net8.0\BaiTapClass.pdb
+D:\21t1020103\Ngay02\BaiTapClass\obj\Debug\net8.0\BaiTapClass.genruntimeconfig.cache
+D:\21t1020103\Ngay02\BaiTapClass\obj\Debug\net8.0\ref\BaiTapClass.dll

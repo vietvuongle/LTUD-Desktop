@@ -1,0 +1,14 @@
+D:\21t1020103\Ngay02\LopKeThua\bin\Debug\net8.0\LopKeThua.exe
+D:\21t1020103\Ngay02\LopKeThua\bin\Debug\net8.0\LopKeThua.deps.json
+D:\21t1020103\Ngay02\LopKeThua\bin\Debug\net8.0\LopKeThua.runtimeconfig.json
+D:\21t1020103\Ngay02\LopKeThua\bin\Debug\net8.0\LopKeThua.dll
+D:\21t1020103\Ngay02\LopKeThua\bin\Debug\net8.0\LopKeThua.pdb
+D:\21t1020103\Ngay02\LopKeThua\obj\Debug\net8.0\LopKeThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\21t1020103\Ngay02\LopKeThua\obj\Debug\net8.0\LopKeThua.AssemblyInfoInputs.cache
+D:\21t1020103\Ngay02\LopKeThua\obj\Debug\net8.0\LopKeThua.AssemblyInfo.cs
+D:\21t1020103\Ngay02\LopKeThua\obj\Debug\net8.0\LopKeThua.csproj.CoreCompileInputs.cache
+D:\21t1020103\Ngay02\LopKeThua\obj\Debug\net8.0\LopKeThua.dll
+D:\21t1020103\Ngay02\LopKeThua\obj\Debug\net8.0\refint\LopKeThua.dll
+D:\21t1020103\Ngay02\LopKeThua\obj\Debug\net8.0\LopKeThua.pdb
+D:\21t1020103\Ngay02\LopKeThua\obj\Debug\net8.0\LopKeThua.genruntimeconfig.cache
+D:\21t1020103\Ngay02\LopKeThua\obj\Debug\net8.0\ref\LopKeThua.dll
